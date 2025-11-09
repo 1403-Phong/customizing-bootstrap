@@ -2,15 +2,20 @@
 // This is the file you will want to update to customize your page.
 
 // Import Google fonts here
-
-
-
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital@0;1&display=swap');
 // Include any default variable overrides here (colors, font sizes, font family, etc..)
 
 
-
 // Adjust nav link hover color here
-
+$primary: #987dd3;
+$secondary: #2aff04;
+$success: #b7e3cc;
+$info: #c4ffb2;
+$warning: #d6f7a3;  
+$danger: #dd7596;
+$light: #f2f2f2;
+$dark: #404e5c;
 
 
 // Typography
